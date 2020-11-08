@@ -7,7 +7,7 @@ Modules:
 
 
 # Usage
-1. First you should statrt **listner** module.
+1. First you should statrt **listener** module.
 2. Second you start **sender** module.
 3. Follow console outputs on both listener and sender. You will see mock data 
     * encrypted on sender
